@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nikolinmajmari
+- 👀 I’m interested in JavaScript, PHP and Symfony
+- 📫 How to reach me 
+-  Email me at nikolinmajmari30@gmail.com
